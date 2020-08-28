@@ -1,2 +1,2 @@
-# pyramid
-a game
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
